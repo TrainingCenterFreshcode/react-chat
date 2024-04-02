@@ -1,0 +1,7 @@
+export default {
+    ACTIONS: {
+        MESSAGE_LOAD_SUCCESS: 'MESSAGE_LOAD_SUCCESS',
+        MESSAGE_LOAD_ERROR: 'MESSAGE_LOAD_ERROR',
+        ADD_NEW_MESSAGE: 'ADD_NEW_MESSAGE'
+    }
+}

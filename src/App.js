@@ -1,6 +1,9 @@
+import './App.css';
+import MessangerPage from "./pages/MessangerPage/MessangerPage";
+
 function App() {
   return (
-    <h1>Ready for development</h1>
+    <MessangerPage />
   );
 }
 
